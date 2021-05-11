@@ -1,2 +1,0 @@
-Hi this first file in master git
-added a new commenets
